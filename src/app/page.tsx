@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {useEffect, useState} from "react";
 import LogoGrid from "@/app/components/LogoGrid";
-import {Russo_One, JetBrains_Mono} from "next/font/google";
+import {JetBrains_Mono} from "next/font/google";
 
 const messageFont = JetBrains_Mono({weight: "400", subsets: ["latin"]});
 
@@ -74,7 +74,7 @@ export default function Home() {
                         programming and a fervent desire to contribute meaningfully to the field. I would like to
                         share with you my background, skills, and motivation.
 
-                        Currently pursuing a bachelor's degree in Cyber security at National Aviation University, I
+                        Currently pursuing a bachelor&apos;s degree in Cyber security at National Aviation University, I
                         have dedicated a significant portion of my academic journey to acquiring knowledge and
                         skills that span programming domains. In addition to my formal education, I have actively
                         engaged in self-directed learning, particularly in the realm of node.js development using
