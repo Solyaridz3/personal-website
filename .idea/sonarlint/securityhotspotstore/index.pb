@@ -15,3 +15,9 @@ O
 src/app/components/LogoGrid.tsx,7\b\7bb37eafc23231e6f6adf9f52d75b5ac20a1180b
 b
 2node_modules/next/dist/client/image-component.d.ts,b\3\b30ae0701abba0ea83375390bb8a8b384c817b6d
+Q
+!src/app/components/ActiveLink.tsx,5\4\54de7466abf4bb0f8930b46e01b269839a824e9a
+O
+src/app/components/MainLogo.tsx,8\7\87f41bb1adc81a2e33bb228907863ecc8c531802
+F
+src/app/about/page.tsx,1\d\1dfffa14ce1e987107ad40fe51c0c049c3149894
