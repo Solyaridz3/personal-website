@@ -59,7 +59,7 @@ export default function Home() {
         }, 100);
         return () => clearInterval(interval);
     }, []);
-    return (<main className={"bg-gradient-radial duration-1000 from-gray-900 to-black"}>
+    return (<main className={"bg-gradient-radial from-gray-900 to-black duration-1000"}>
             <div
                 className={`transition-transform flex min-h-screen flex-col lg:flex-row items-center justify-center p-32 lg:gap-60 gap-10`}>
                 <div className={"text-3xl w-[450px] text-center lg:text-start"}>

@@ -3,7 +3,7 @@ import Image from "next/image";
 function Page() {
     return (
         <main
-            className="border-t-2 border-gray-800 flex min-h-screen md:flex-row flex-col items-center justify-center pt-20 gap-10 md:p-8 md:gap-32">
+            className="bg-gradient-radial from-gray-900 to-black border-t-2 border-gray-800 flex min-h-screen md:flex-row flex-col items-center justify-center pt-20 gap-10 md:p-8 md:gap-32">
             <div
                 className="shadow-[0px_0px_60px_rgba(100,0,255,0.3)] rounded-md">
                 <Image src="/me.jpg" alt="me" height={200} width={200}
