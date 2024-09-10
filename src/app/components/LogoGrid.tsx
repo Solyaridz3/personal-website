@@ -7,7 +7,7 @@ const logos = [
     { src: "/git.png", alt: "Git" },
     { src: "/typescript.png", alt: "Typescript" },
     { src: "/nest.png", alt: "Nest.js" },
-    { src: "/postgres.png", alt: "PostgreSQl" },
+    { src: "/postgres.png", alt: "PostgreSQL" },
     { src: "/docker.webp", alt: "Docker" },
     { src: "/React.webp", alt: "React" },
     { src: "/tailwind.webp", alt: "Tailwind" },
