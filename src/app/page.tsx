@@ -1,6 +1,5 @@
-"use client"
+"use client";
 import { useEffect, useState } from "react";
-// import LogoGrid from "@/app/components/LogoGrid";
 import { JetBrains_Mono } from "next/font/google";
 import MainLogo from "@/app/components/MainLogo";
 

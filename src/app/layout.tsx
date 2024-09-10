@@ -6,7 +6,6 @@ import "./globals.css";
 const inter = Montserrat({ weight: "400", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-
     title: "Serhiy Vynarchuk",
     description: "Serhiy Vynarchuk's personal website",
 };
