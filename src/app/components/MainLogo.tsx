@@ -24,7 +24,7 @@ function MainLogo() {
                     </p>
                 </div>
             </ActiveLink>
-            <ActiveLink href="https://github.com/Solyaridz3" className={""}>
+            <a target="_blank" href="https://github.com/Solyaridz3" className={""}>
                 <div className="border-black border-4 rounded-full absolute top-[0px] left-[250px] group transition-shadow shadow-[0px_0px_0px_rgba(255,255,255,1)] hover:shadow-[0px_0px_10px_rgba(255,255,255,1)]">
                     <Image
                         className={`object-cover h-${20} w-${20} rounded-full p-1 bg-violet-100 group-hover:bg-white`}
@@ -36,7 +36,7 @@ function MainLogo() {
                         priority={true}
                     />
                 </div>
-            </ActiveLink>
+            </a>
         </div>
     );
 }
